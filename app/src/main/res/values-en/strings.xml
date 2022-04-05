@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="entrance">entrance</string>
+    <string name="move">move</string>
+    <string name="record">record</string>
+    <string name="submit">submit</string>
+    <string name="start">paint and\nmake a story</string>
+    <string name="save">saving</string>
+    <string name="pdf_success">pdf file saving success</string>
+</resources>

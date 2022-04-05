@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignInActivity">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <RadioButton
+            android:id="@+id/rb_ko"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:fontFamily="@font/korean"
+            android:includeFontPadding="false"
+            android:text="한글"
+            android:textSize="50dp" />
+
+        <RadioButton
+            android:id="@+id/rb_en"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/korean"
+            android:includeFontPadding="false"
+            android:text="English"
+            android:textSize="50dp" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/et_id"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/bg_et"
+        android:ems="10"
+        android:fontFamily="@font/korean"
+        android:hint="ID"
+        android:includeFontPadding="false"
+        android:inputType="number"
+        android:paddingStart="16dp"
+        android:privateImeOptions="false"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="@+id/radioGroup"
+        app:layout_constraintStart_toStartOf="@+id/radioGroup"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_start"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/btn_ripple_green"
+        android:fontFamily="@font/korean"
+        android:foreground="?selectableItemBackground"
+        android:includeFontPadding="false"
+        android:text="@string/entrance"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="@id/et_id"
+        app:layout_constraintStart_toStartOf="@+id/et_id"
+        app:layout_constraintTop_toBottomOf="@+id/et_id" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="story_red">#8D2323</color>
+    <color name="story_gray">#707070</color>
+    <color name="story_FF7D63">#FF7D63</color>
+    <color name="story_F94444">#F94444</color>
+    <color name="story_FFC7A1">#FFC7A1</color>
+    <color name="story_FF6F0D">#FF6F0D</color>
+    <color name="story_739406">#739406</color>
+    <color name="story_FCB903">#FCB903</color>
+    <color name="story_0E939D">#0E939D</color>
+    <color name="story_53C195">#53C195</color>
+    <color name="story_05A6CF">#05A6CF</color>
+    <color name="story_80DCDF">#80DCDF</color>
+    <color name="story_9781F2">#9781F2</color>
+    <color name="story_232FE2">#232FE2</color>
+    <color name="story_FF98EA">#FF98EA</color>
+    <color name="story_8312F2">#8312F2</color>
+    <color name="story_262626">#262626</color>
+    <color name="story_683B00">#683B00</color>
+    <color name="story_9A9A9A">#9A9A9A</color>
+    <color name="story_D8D8D8">#D8D8D8</color>
+
+    
+    
+    <color name="story_9e2f24">#9e2f24</color>
+    <color name="story_de6f38">#de6f38</color>
+    <color name="story_7c563f">#7c563f</color>
+    <color name="story_c28b62">#c28b62</color>
+    <color name="story_ffc7a1">#ffc7a1</color>
+    <color name="story_f0c952">#f0c952</color>
+    <color name="story_d5dd54">#d5dd54</color>
+    <color name="story_72a256">#72a256</color>
+    <color name="story_3c7032">#3c7032</color>
+    <color name="story_91b8d9">#91b8d9</color>
+    <color name="story_4c6bbd">#4c6bbd</color>
+    <color name="story_304699">#304699</color>
+    <color name="story_6b33b8">#6b33b8</color>
+    <color name="story_bd7ce4">#bd7ce4</color>
+    <color name="story_d37590">#d37590</color>
+    <color name="story_f6cdd5">#f6cdd5</color>
+    <color name="story_1b1b1b">#1b1b1b</color>
+    <color name="story_c6c6c6">#c6c6c6</color>
+    <color name="story_8c8c8c">#8c8c8c</color>
+</resources>

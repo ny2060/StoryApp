@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">이야기앱</string>
+    <string name="entrance">입장</string>
+    <string name="move">이동</string>
+    <string name="record">녹음</string>
+    <string name="submit">제출</string>
+    <string name="start">칠하고\n이야기 만들기</string>
+    <string name="save">저장중입니다.</string>
+    <string name="pdf_success">PDF 파일 저장성공</string>
+</resources>
